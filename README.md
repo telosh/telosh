@@ -2,7 +2,7 @@
 <p align="center">A vocational school student who aspires to be a backend engineer from Japan</p><br>
 
 ![](https://komarev.com/ghpvc/?username=TellM1)
-<p>Programing lang/flame/Library</p><br>
+<p>Programing Lang/FlameWork/Library</p><br>
 
 <!-- ![](https://img.shields.io/badge/-Java-007396.svg?logo=java&style=for-the-badge) -->
 ![](https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat)
