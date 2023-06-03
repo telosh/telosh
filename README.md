@@ -20,5 +20,5 @@
 ![](https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat)
 ![](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat)
 ---
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TellM1&theme=dracula)
-![](https://github-readme-stats.vercel.app/api?username=TellM1&layout=compact&theme=dracula)![](https://github-readme-stats.vercel.app/api/top-langs/?username=TellM1&layout=compact&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=telosh&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=telosh&layout=compact&theme=dracula)![](https://github-readme-stats.vercel.app/api/top-langs/?username=telosh&layout=compact&theme=dracula)
