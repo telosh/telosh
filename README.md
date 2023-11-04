@@ -22,4 +22,4 @@
 ---
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=telosh&theme=dracula)
 ![](https://github-readme-stats.vercel.app/api?username=telosh&layout=compact&theme=dracula)![](https://github-readme-stats.vercel.app/api/top-langs/?username=telosh&layout=compact&theme=dracula)
-<p style="text-align:right;">If you don’t like where you are, change it. You’re not a tree. (Jim Rohn)</p>
+<p>If you don’t like where you are, change it. You’re not a tree. (Jim Rohn)</p>
