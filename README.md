@@ -21,5 +21,5 @@
 ![](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat)
 ---
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=telosh&theme=dracula)
-![](https://github-readme-stats.vercel.app/api?username=telosh&layout=compact&theme=dracula)![](https://github-readme-stats.vercel.app/api/top-langs/?username=telosh&layout=compact&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=telosh&layout=compact&theme=dracula)
 <p>If you don’t like where you are, change it. You’re not a tree. (Jim Rohn)</p>
