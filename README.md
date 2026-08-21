@@ -1,36 +1,55 @@
-# Terumi Kawano
+<div align="center">
+  <!-- Mochi App Header -->
+  <img src="./assets/mochi-header.svg" width="100%" alt="Terumi Kawano Mochi Header" />
+</div>
 
-**Frontend & Mobile Engineer** focusing on React Native, Next.js, and Google Cloud.  
-Based in Japan 🇯🇵
+<br/>
 
----
+<!-- Mochi Feature Cards -->
+<div align="center">
+  <img src="./assets/mochi-cards.svg" width="100%" alt="Frontend, Mobile Native & Google Cloud Focus" />
+</div>
 
-### Focus Areas
+<br/>
 
-- 📱 **Frontend & Mobile**: Building fluid cross-platform mobile apps using React Native & Expo, and performant web applications with Next.js & React.
-- ☁️ **Cloud Infrastructure**: Architecting scalable backends, serverless APIs, and edge delivery powered by Google Cloud (GCP, Cloud Run, Firebase) and Cloudflare.
-- 🤖 **Developer Automation**: Creating custom MCP tools, developer utilities, and AI agent workflows.
+<!-- Mochi Tech Stack Macarons -->
+<div align="center">
+  <img src="./assets/mochi-stack.svg" width="100%" alt="Mochi Tech Stack Macarons" />
+</div>
 
----
+<br/>
 
-### Tech Stack
+<!-- Web UI Style Dashboard Block -->
+<div align="center">
 
-| Category | Technologies |
+| 🌸 CATEGORY | 🍡 TECH &amp; TOOLS |
 |---|---|
-| **Languages** | `TypeScript` `JavaScript` `Node.js` `Python` |
-| **Frontend & Mobile** | `Next.js` `React` `React Native` `Expo` `Tailwind CSS` |
-| **Cloud & Platform** | `Google Cloud (GCP)` `Cloud Run` `Firebase` `Cloudflare` |
-| **Tools & Environment** | `Git` `GitHub` `Zed` `VS Code` `Claude Code` |
+| **Frontend &amp; Mobile** | `React Native` `Expo` `Next.js` `React 19` `Tailwind CSS` |
+| **Cloud Platform** | `Google Cloud (GCP)` `Cloud Run` `Firebase` `Cloudflare Workers` |
+| **Languages &amp; Core** | `TypeScript` `JavaScript` `Node.js` `Python` |
+| **Developer Setup** | `Zed Editor` `VS Code` `Claude Code` `Git` `GitHub` |
+
+</div>
+
+<br/>
+
+<!-- Soft Connect Section -->
+<div align="center">
+  <h3>💌 Connect with me</h3>
+
+  <a href="https://github.com/telosh">
+    <img src="https://img.shields.io/badge/GitHub-telosh-1e293b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/TellM1_">
+    <img src="https://img.shields.io/badge/X-@TellM1__-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+</div>
+
+<br/>
 
 ---
 
-### Connect
-
-- **GitHub**: [@telosh](https://github.com/telosh)
-- **X (Twitter)**: [@TellM1_](https://x.com/TellM1_)
-
----
-
-<p align="center">
-  <sub><i>“If you don't like where you are, change it. You're not a tree.” — Jim Rohn</i></sub>
-</p>
+<div align="center">
+  <p><sub><i>“If you don't like where you are, change it. You're not a tree.” — Jim Rohn 🌸</i></sub></p>
+</div>
