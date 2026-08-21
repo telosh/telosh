@@ -1,40 +1,36 @@
-<div align="center">
-  <!-- Header SVG -->
-  <img src="./assets/header.svg" width="100%" alt="Terumi Kawano Header" />
-</div>
+# Terumi Kawano
 
-<br/>
+**Frontend & Mobile Engineer** focusing on React Native, Next.js, and Google Cloud.  
+Based in Japan 🇯🇵
 
-<!-- Profile & Focus -->
-<div align="center">
-  <img src="./assets/about-card.svg" width="100%" alt="Engineering Profile &amp; Core Focus" />
-</div>
+---
 
-<br/>
+### Focus Areas
 
-<!-- Tech Matrix -->
-<div align="center">
-  <img src="./assets/skills-matrix.svg" width="100%" alt="Technical Matrix &amp; Stack" />
-</div>
+- 📱 **Frontend & Mobile**: Building fluid cross-platform mobile apps using React Native & Expo, and performant web applications with Next.js & React.
+- ☁️ **Cloud Infrastructure**: Architecting scalable backends, serverless APIs, and edge delivery powered by Google Cloud (GCP, Cloud Run, Firebase) and Cloudflare.
+- 🤖 **Developer Automation**: Creating custom MCP tools, developer utilities, and AI agent workflows.
 
-<br/>
+---
 
-<!-- Terminal / Info Block -->
-```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ $ telosh --info                                                             │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ > Primary Focus: Frontend & Mobile Native (Next.js / React Native)          │
-│ > Cloud Platform: Google Cloud (GCP, Cloud Run, Firebase) & Cloudflare      │
-│ > Current Stack: TypeScript, React Native, Next.js, Hono, Python            │
-│ > Exploration: AI Agent Tooling (MCP), Automated Workflows                  │
-│ > Location: Japan 🇯🇵                                                        │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+### Tech Stack
 
-<br/>
+| Category | Technologies |
+|---|---|
+| **Languages** | `TypeScript` `JavaScript` `Node.js` `Python` |
+| **Frontend & Mobile** | `Next.js` `React` `React Native` `Expo` `Tailwind CSS` |
+| **Cloud & Platform** | `Google Cloud (GCP)` `Cloud Run` `Firebase` `Cloudflare` |
+| **Tools & Environment** | `Git` `GitHub` `Zed` `VS Code` `Claude Code` |
 
-<!-- Quote Footer -->
-<div align="center">
-  <p><sub><i>"If you don't like where you are, change it. You're not a tree." — Jim Rohn</i></sub></p>
-</div>
+---
+
+### Connect
+
+- **GitHub**: [@telosh](https://github.com/telosh)
+- **X (Twitter)**: [@SCR01111](https://x.com/SCR01111)
+
+---
+
+<p align="center">
+  <sub><i>“If you don't like where you are, change it. You're not a tree.” — Jim Rohn</i></sub>
+</p>
