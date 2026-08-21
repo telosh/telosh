@@ -3,8 +3,6 @@
 **SIer勤務 / フロントエンド & モバイルエンジニア** &nbsp;•&nbsp; **Google Cloud Platform**  
 Game: **telosh** &nbsp;•&nbsp; Based in Japan 🇯🇵
 
-> **“Soft Vibes, Hard Skills”** — 柔らかい雰囲気の中に、尖った技術力を。
-
 ---
 
 ### 🌐 ポートフォリオ & リンク / Portfolios & Links
