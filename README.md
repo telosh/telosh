@@ -1,33 +1,33 @@
-# Terumi Kawano
+# 川野 輝海 (Terumi Kawano)
 
-**Frontend & Mobile Engineer** &nbsp;•&nbsp; **Google Cloud Platform**  
-Based in Japan 🇯🇵
-
----
-
-### Focus
-
-**Frontend & Mobile Native**  
-Building cross-platform mobile applications with **React Native** & **Expo**, and high-performance web interfaces with **Next.js** & **React**.
-
-**Cloud Platform & Infrastructure**  
-Architecting serverless backends, APIs, and edge delivery using **Google Cloud (GCP)**, **Cloud Run**, **Firebase**, and **Cloudflare**.
-
-**Developer Tooling & Automation**  
-Creating custom **MCP (Model Context Protocol)** tools, productivity utilities, and automated workflows.
+**フロントエンド & モバイルエンジニア** &nbsp;•&nbsp; **Google Cloud Platform**  
+日本（Japan 🇯🇵）を拠点に活動しています。
 
 ---
 
-### Tech Stack
+### 🚀 主な注力領域 / Focus Areas
 
-- **Languages:** `TypeScript` &nbsp;`JavaScript` &nbsp;`Node.js` &nbsp;`Python`
-- **Frontend & Mobile:** `React Native` &nbsp;`Expo` &nbsp;`Next.js` &nbsp;`React` &nbsp;`Tailwind CSS`
-- **Cloud & Infra:** `Google Cloud (GCP)` &nbsp;`Cloud Run` &nbsp;`Firebase` &nbsp;`Cloudflare`
-- **Environment:** `Zed Editor` &nbsp;`VS Code` &nbsp;`Claude Code` &nbsp;`Git` &nbsp;`GitHub`
+- 📱 **フロントエンド & モバイルアプリ (Frontend & Mobile Native)**  
+  **React Native** と **Expo** を用いたクロスプラットフォームモバイルアプリ開発、および **Next.js** と **React** による高パフォーマンスな Web アプリケーションの構築。
+
+- ☁️ **クラウドインフラ (Cloud Infrastructure)**  
+  **Google Cloud (GCP)**、**Cloud Run**、**Firebase**、および **Cloudflare** を活用したサーバーレスバックエンド、API、エッジ配信基盤の設計・運用。
+
+- 🤖 **開発ツール & 自動化 (Developer Tooling & Automation)**  
+  カスタム **MCP (Model Context Protocol)** ツールの開発、生産性向上ユーティリティ、AI エージェントワークフローの構築。
 
 ---
 
-### Connect
+### 🛠️ 技術スタック / Tech Stack
+
+- **開発言語 (Languages):** `TypeScript` &nbsp;`JavaScript` &nbsp;`Node.js` &nbsp;`Python`
+- **フロントエンド & モバイル (Frontend & Mobile):** `React Native` &nbsp;`Expo` &nbsp;`Next.js` &nbsp;`React` &nbsp;`Tailwind CSS`
+- **クラウド & インフラ (Cloud & Infra):** `Google Cloud (GCP)` &nbsp;`Cloud Run` &nbsp;`Firebase` &nbsp;`Cloudflare`
+- **開発環境 (Environment):** `Zed Editor` &nbsp;`VS Code` &nbsp;`Claude Code` &nbsp;`Git` &nbsp;`GitHub`
+
+---
+
+### 🔗 リンク / Connect
 
 - **GitHub:** [@telosh](https://github.com/telosh)
 - **X (Twitter):** [@TellM1_](https://x.com/TellM1_)
