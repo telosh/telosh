@@ -1,75 +1,107 @@
+<!-- Header Banner -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=12,20,11&height=220&section=header&text=Terumi%20Kawano&fontSize=50&animation=fadeIn&fontAlignY=36&desc=%E2%9A%A1%EF%B8%8F%20Full-stack%20Engineer%20%7C%20Cloud%20%26%20AI%20Automation&descSize=20&descAlignY=60" width="100%" alt="Header Banner" />
 
-# Hi there, I'm Terumi Kawano (@telosh) 👋
+  <!-- Typing SVG Effect -->
+  <a href="https://github.com/telosh">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&height=50&lines=Full-stack+Engineer;Cloud+%26+Edge+Native;AI+Agents+%26+Workflow+Automation;TypeScript+%26+Next.js+Specialist" alt="Typing SVG" />
+  </a>
 
-**Full-stack Engineer | Cloud & AI Automation Enthusiast**
+  <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=telosh&color=007acc&style=flat-square)](https://github.com/telosh)
-[![GitHub Followers](https://img.shields.io/github/followers/telosh?style=flat-square&logo=github)](https://github.com/telosh)
-
+  <!-- Profile Badges -->
+  <p align="center">
+    <a href="https://github.com/telosh">
+      <img src="https://img.shields.io/github/followers/telosh?label=Followers&logo=github&style=for-the-badge&color=21262d&labelColor=161b22" alt="Followers" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=telosh&label=Profile%20Views&color=007acc&style=for-the-badge" alt="Profile Views" />
+    <a href="https://github.com/telosh?tab=repositories">
+      <img src="https://img.shields.io/github/repositories/count/telosh?label=Repositories&logo=github&style=for-the-badge&color=21262d&labelColor=161b22" alt="Repositories" />
+    </a>
+  </p>
 </div>
-
----
-
-### 🚀 About Me
-
-- 💻 **Software Engineer** based in Japan.
-- ⚡ Focus on **TypeScript, Next.js, Cloudflare Edge Stack (Workers/D1/Pages), Hono, and Modern Web Architectures**.
-- 🤖 Passionate about **AI Agents, Developer Tools, Infrastructure as Code, and Workflow Automation**.
-- 📖 Always learning and building open-source projects.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-#### **Languages & Runtimes**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### **Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-
-#### **Cloud & Infrastructure**
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-#### **Tools & Editors**
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudio-code&logoColor=white)
-![Zed](https://img.shields.io/badge/Zed-000000?style=for-the-badge&logo=zed&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=telosh&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Terumi's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=telosh&layout=compact&theme=tokyonight&count_private=true&hide_border=true" alt="Top Languages" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=telosh&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+<!-- About Me Section -->
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>🚀 About Me</h3>
+      <p>
+        Hi! I'm <b>Terumi Kawano (@telosh)</b>, a Full-stack Engineer based in Japan.
+      </p>
+      <ul>
+        <li>🌐 <b>Frontend & Backend:</b> TypeScript, React, Next.js, Hono, Node.js</li>
+        <li>☁️ <b>Cloud & Edge Native:</b> Cloudflare Workers, D1, Pages, AWS, Vercel</li>
+        <li>🤖 <b>AI & Automation:</b> AI Agents, LLM Integrations, Custom Workflow Automation</li>
+        <li>💡 <b>Philosophy:</b> Crafting scalable, ultra-fast, and user-centric web applications.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=telosh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
+<br/>
+
+<!-- Tech Stack Grid -->
+<div align="center">
+  <h3>🛠️ Tech Stack & Tools</h3>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,bun,hono,tailwind,python,threejs,cloudflare,aws,docker,vercel,git,github,vscode,zed&perline=9" alt="My Skills" />
+  </a>
 </div>
+
+<br/>
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <h3>🏆 GitHub Achievements</h3>
+  <br/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=telosh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<br/>
+
+<!-- Analytics Dashboard -->
+<div align="center">
+  <h3>📊 GitHub Activity & Analytics</h3>
+  <br/>
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=telosh&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" width="400" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=telosh&theme=tokyonight&hide_border=true&background=0D1117" width="400" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- Collapsible Showcase / Interactive Section -->
+<details>
+  <summary><b>🔍 Expand to see Featured Focus Areas & Projects</b></summary>
+  <br/>
+  <ul>
+    <li>⚡ <b>Edge Computing with Cloudflare:</b> Building serverless APIs & real-time messaging with Workers, Hono, and D1.</li>
+    <li>🤖 <b>AI Integration & MCP:</b> Building intelligent automation tools, LLM workflows, and custom MCP servers.</li>
+    <li>🎨 <b>Modern UI/UX:</b> Crafting sleek web interfaces with Next.js App Router, Tailwind CSS, and framer-motion.</li>
+  </ul>
+</details>
+
+<br/>
 
 ---
 
+<!-- Quote Footer -->
 <div align="center">
-
-*"If you don't like where you are, change it. You're not a tree." — Jim Rohn*
-
+  <p><i>"If you don't like where you are, change it. You're not a tree." — Jim Rohn</i></p>
 </div>
