@@ -8,7 +8,7 @@
 
   <rect width="800" height="260" rx="12" fill="url(#bg)" stroke="#30363d" stroke-width="1.5" />
 
-  <text x="36" y="36" font-family="ui-monospace, SFMono-Regular, monospace" font-size="13" font-weight="700" fill="#38bdf8" letter-spacing="1.5">TECHNICAL MATRIX &amp; STACK</text>
+  <text x="36" y="36" font-family="ui-monospace, SFMono-Regular, monospace" font-size="13" font-weight="700" fill="#4285F4" letter-spacing="1.5">TECHNICAL MATRIX &amp; STACK</text>
 
   <g transform="translate(36, 56)">
     <rect x="0" y="0" width="354" height="80" rx="8" fill="#161b22" stroke="#30363d" />
@@ -30,37 +30,37 @@
 
   <g transform="translate(410, 56)">
     <rect x="0" y="0" width="354" height="80" rx="8" fill="#161b22" stroke="#30363d" />
-    <text x="16" y="24" font-family="ui-monospace, monospace" font-size="11" font-weight="700" fill="#94a3b8">FRAMEWORKS &amp; UI</text>
+    <text x="16" y="24" font-family="ui-monospace, monospace" font-size="11" font-weight="700" fill="#94a3b8">FRONTEND &amp; MOBILE</text>
     <g transform="translate(16, 36)">
-      <rect x="0" y="0" width="68" height="26" rx="6" fill="#1f2937" stroke="#374151" />
-      <text x="34" y="17" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#e2e8f0" text-anchor="middle">Next.js</text>
+      <rect x="0" y="0" width="60" height="26" rx="6" fill="#1f2937" stroke="#374151" />
+      <text x="30" y="17" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#e2e8f0" text-anchor="middle">Next.js</text>
 
-      <rect x="76" y="0" width="60" height="26" rx="6" fill="#1f2937" stroke="#374151" />
-      <text x="106" y="17" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#38bdf8" text-anchor="middle">React</text>
+      <rect x="68" y="0" width="54" height="26" rx="6" fill="#1f2937" stroke="#374151" />
+      <text x="95" y="17" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#38bdf8" text-anchor="middle">React</text>
 
-      <rect x="144" y="0" width="56" height="26" rx="6" fill="#1f2937" stroke="#374151" />
-      <text x="172" y="17" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#fb923c" text-anchor="middle">Hono</text>
+      <rect x="130" y="0" width="94" height="26" rx="6" fill="#1f2937" stroke="#374151" />
+      <text x="177" y="17" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#818cf8" text-anchor="middle">React Native</text>
 
-      <rect x="208" y="0" width="88" height="26" rx="6" fill="#1f2937" stroke="#374151" />
-      <text x="252" y="17" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#22d3ee" text-anchor="middle">Tailwind CSS</text>
+      <rect x="232" y="0" width="88" height="26" rx="6" fill="#1f2937" stroke="#374151" />
+      <text x="276" y="17" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#22d3ee" text-anchor="middle">Tailwind CSS</text>
     </g>
   </g>
 
   <g transform="translate(36, 148)">
     <rect x="0" y="0" width="354" height="80" rx="8" fill="#161b22" stroke="#30363d" />
-    <text x="16" y="24" font-family="ui-monospace, monospace" font-size="11" font-weight="700" fill="#94a3b8">CLOUD &amp; EDGE PLATFORM</text>
+    <text x="16" y="24" font-family="ui-monospace, monospace" font-size="11" font-weight="700" fill="#94a3b8">CLOUD &amp; INFRASTRUCTURE</text>
     <g transform="translate(16, 36)">
-      <rect x="0" y="0" width="124" height="26" rx="6" fill="#1f2937" stroke="#374151" />
-      <text x="62" y="17" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#fb923c" text-anchor="middle">Cloudflare Edge / D1</text>
+      <rect x="0" y="0" width="100" height="26" rx="6" fill="#1f2937" stroke="#374151" />
+      <text x="50" y="17" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#4285F4" text-anchor="middle">Google Cloud</text>
 
-      <rect x="132" y="0" width="50" height="26" rx="6" fill="#1f2937" stroke="#374151" />
-      <text x="157" y="17" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#f97316" text-anchor="middle">AWS</text>
+      <rect x="108" y="0" width="76" height="26" rx="6" fill="#1f2937" stroke="#374151" />
+      <text x="146" y="17" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#EA4335" text-anchor="middle">Cloud Run</text>
 
-      <rect x="190" y="0" width="60" height="26" rx="6" fill="#1f2937" stroke="#374151" />
-      <text x="220" y="17" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#60a5fa" text-anchor="middle">Docker</text>
+      <rect x="192" y="0" width="68" height="26" rx="6" fill="#1f2937" stroke="#374151" />
+      <text x="226" y="17" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#FBBC05" text-anchor="middle">Firebase</text>
 
-      <rect x="258" y="0" width="60" height="26" rx="6" fill="#1f2937" stroke="#374151" />
-      <text x="288" y="17" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#e2e8f0" text-anchor="middle">Vercel</text>
+      <rect x="268" y="0" width="70" height="26" rx="6" fill="#1f2937" stroke="#374151" />
+      <text x="303" y="17" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#34A853" text-anchor="middle">Cloudflare</text>
     </g>
   </g>
 
