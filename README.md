@@ -1,6 +1,6 @@
-# 川野 輝海 (Terumi Kawano)
+# 河野 光臣 (Mitsuomi Kawano)
 
-**フロントエンド & モバイルエンジニア** &nbsp;•&nbsp; **Google Cloud Platform**  
+**SIer勤務 / フロントエンド & モバイルエンジニア** &nbsp;•&nbsp; **Google Cloud Platform**  
 日本（Japan 🇯🇵）を拠点に活動しています。
 
 ---
@@ -14,7 +14,7 @@
   **Google Cloud (GCP)**、**Cloud Run**、**Firebase**、および **Cloudflare** を活用したサーバーレスバックエンド、API、エッジ配信基盤の設計・運用。
 
 - 🤖 **開発ツール & 自動化 (Developer Tooling & Automation)**  
-  カスタム **MCP (Model Context Protocol)** ツールの開発、生産性向上ユーティリティ、AI エージェントワークフローの構築。
+  カスタム **MCP (Model Context Protocol)** ツールの開発、生産性向上ユーティリティ、業務自動化ワークフローの構築。
 
 ---
 
