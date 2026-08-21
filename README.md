@@ -24,9 +24,10 @@
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │ $ telosh --info                                                             │
 ├─────────────────────────────────────────────────────────────────────────────┤
-│ > Primary Focus: Edge Native Web Services & Distributed Systems            │
-│ > Current Stack: TypeScript, Next.js, Cloudflare Workers/D1, Hono, Python   │
-│ > Exploration: AI Agent Tooling (MCP), Automated Workflows, Edge DB         │
+│ > Primary Focus: Frontend & Mobile Native (Next.js / React Native)          │
+│ > Cloud Platform: Google Cloud (GCP, Cloud Run, Firebase) & Cloudflare      │
+│ > Current Stack: TypeScript, React Native, Next.js, Hono, Python            │
+│ > Exploration: AI Agent Tooling (MCP), Automated Workflows                  │
 │ > Location: Japan 🇯🇵                                                        │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
