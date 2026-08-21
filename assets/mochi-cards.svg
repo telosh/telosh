@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 210" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="100%">
   <defs>
     <linearGradient id="card-bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#1e1b2e" />
@@ -6,69 +6,63 @@
     </linearGradient>
   </defs>
 
-  <!-- Card 1: Mobile & Frontend (Soft Pink / Cyan) -->
+  <!-- Card 1: Mobile & Frontend -->
   <g transform="translate(0, 0)">
-    <rect width="250" height="210" rx="20" fill="url(#card-bg)" stroke="#f472b6" stroke-width="1.5" />
-    <rect x="16" y="16" width="44" height="44" rx="14" fill="#fbcfe8" opacity="0.2" />
-    <text x="28" y="44" font-size="22">📱</text>
+    <rect width="250" height="200" rx="20" fill="url(#card-bg)" stroke="#f472b6" stroke-width="1.5" />
     
-    <text x="16" y="86" font-family="ui-rounded, sans-serif" font-size="16" font-weight="800" fill="#f472b6">Frontend &amp; Mobile</text>
-    <text x="16" y="110" font-family="ui-rounded, sans-serif" font-size="12" font-weight="500" fill="#94a3b8">React Native / Next.js</text>
+    <text x="20" y="38" font-family="ui-monospace, monospace" font-size="11" font-weight="700" fill="#f472b6" letter-spacing="1">01 / FRONTEND &amp; MOBILE</text>
+    <text x="20" y="68" font-family="ui-rounded, sans-serif" font-size="18" font-weight="800" fill="#f8fafc">React Native &amp; Next.js</text>
+    <text x="20" y="92" font-family="ui-rounded, sans-serif" font-size="12" font-weight="400" fill="#94a3b8">Cross-platform mobile apps and high-performance web applications.</text>
     
-    <path d="M 16 128 L 234 128" stroke="#334155" stroke-width="1" stroke-dasharray="4 4" />
+    <line x1="20" y1="112" x2="230" y2="112" stroke="#334155" stroke-width="1" stroke-dasharray="4 4" />
     
-    <!-- Pills -->
-    <rect x="16" y="142" width="90" height="24" rx="12" fill="#312e81" />
-    <text x="61" y="158" font-family="ui-rounded, sans-serif" font-size="11" font-weight="700" fill="#a5b4fc" text-anchor="middle">Expo / iOS</text>
+    <rect x="20" y="130" width="84" height="24" rx="12" fill="#312e81" />
+    <text x="62" y="146" font-family="ui-rounded, sans-serif" font-size="11" font-weight="700" fill="#a5b4fc" text-anchor="middle">Expo / iOS</text>
     
-    <rect x="114" y="142" width="80" height="24" rx="12" fill="#1e293b" />
-    <text x="154" y="158" font-family="ui-rounded, sans-serif" font-size="11" font-weight="700" fill="#38bdf8" text-anchor="middle">React 19</text>
+    <rect x="112" y="130" width="76" height="24" rx="12" fill="#1e293b" />
+    <text x="150" y="146" font-family="ui-rounded, sans-serif" font-size="11" font-weight="700" fill="#38bdf8" text-anchor="middle">React 19</text>
     
-    <rect x="16" y="172" width="110" height="24" rx="12" fill="#1e293b" />
-    <text x="71" y="188" font-family="ui-rounded, sans-serif" font-size="11" font-weight="700" fill="#f472b6" text-anchor="middle">Tailwind CSS</text>
+    <rect x="20" y="160" width="100" height="24" rx="12" fill="#1e293b" />
+    <text x="70" y="176" font-family="ui-rounded, sans-serif" font-size="11" font-weight="700" fill="#f472b6" text-anchor="middle">Tailwind CSS</text>
   </g>
 
-  <!-- Card 2: Google Cloud & Infra (Soft Emerald / Mint) -->
+  <!-- Card 2: Google Cloud -->
   <g transform="translate(275, 0)">
-    <rect width="250" height="210" rx="20" fill="url(#card-bg)" stroke="#34d399" stroke-width="1.5" />
-    <rect x="16" y="16" width="44" height="44" rx="14" fill="#a7f3d0" opacity="0.2" />
-    <text x="28" y="44" font-size="22">☁️</text>
+    <rect width="250" height="200" rx="20" fill="url(#card-bg)" stroke="#34d399" stroke-width="1.5" />
     
-    <text x="16" y="86" font-family="ui-rounded, sans-serif" font-size="16" font-weight="800" fill="#34d399">Google Cloud</text>
-    <text x="16" y="110" font-family="ui-rounded, sans-serif" font-size="12" font-weight="500" fill="#94a3b8">Cloud Run / Firebase</text>
+    <text x="20" y="38" font-family="ui-monospace, monospace" font-size="11" font-weight="700" fill="#34d399" letter-spacing="1">02 / CLOUD PLATFORM</text>
+    <text x="20" y="68" font-family="ui-rounded, sans-serif" font-size="18" font-weight="800" fill="#f8fafc">Google Cloud &amp; Edge</text>
+    <text x="20" y="92" font-family="ui-rounded, sans-serif" font-size="12" font-weight="400" fill="#94a3b8">Scalable backends, serverless APIs, and edge deployment.</text>
     
-    <path d="M 16 128 L 234 128" stroke="#334155" stroke-width="1" stroke-dasharray="4 4" />
+    <line x1="20" y1="112" x2="230" y2="112" stroke="#334155" stroke-width="1" stroke-dasharray="4 4" />
     
-    <!-- Pills -->
-    <rect x="16" y="142" width="94" height="24" rx="12" fill="#064e3b" />
-    <text x="63" y="158" font-family="ui-rounded, sans-serif" font-size="11" font-weight="700" fill="#6ee7b7" text-anchor="middle">GCP Services</text>
+    <rect x="20" y="130" width="90" height="24" rx="12" fill="#064e3b" />
+    <text x="65" y="146" font-family="ui-rounded, sans-serif" font-size="11" font-weight="700" fill="#6ee7b7" text-anchor="middle">Cloud Run</text>
     
-    <rect x="118" y="142" width="84" height="24" rx="12" fill="#1e293b" />
-    <text x="160" y="158" font-family="ui-rounded, sans-serif" font-size="11" font-weight="700" fill="#fbbf24" text-anchor="middle">Cloudflare</text>
+    <rect x="118" y="130" width="80" height="24" rx="12" fill="#1e293b" />
+    <text x="158" y="146" font-family="ui-rounded, sans-serif" font-size="11" font-weight="700" fill="#fbbf24" text-anchor="middle">Firebase</text>
     
-    <rect x="16" y="172" width="90" height="24" rx="12" fill="#1e293b" />
-    <text x="61" y="188" font-family="ui-rounded, sans-serif" font-size="11" font-weight="700" fill="#60a5fa" text-anchor="middle">Serverless</text>
+    <rect x="20" y="160" width="88" height="24" rx="12" fill="#1e293b" />
+    <text x="64" y="176" font-family="ui-rounded, sans-serif" font-size="11" font-weight="700" fill="#60a5fa" text-anchor="middle">Cloudflare</text>
   </g>
 
-  <!-- Card 3: AI Agents & Tooling (Soft Lavender / Violet) -->
+  <!-- Card 3: AI & Workflows -->
   <g transform="translate(550, 0)">
-    <rect width="250" height="210" rx="20" fill="url(#card-bg)" stroke="#c084fc" stroke-width="1.5" />
-    <rect x="16" y="16" width="44" height="44" rx="14" fill="#e9d5ff" opacity="0.2" />
-    <text x="28" y="44" font-size="22">🤖</text>
+    <rect width="250" height="200" rx="20" fill="url(#card-bg)" stroke="#c084fc" stroke-width="1.5" />
     
-    <text x="16" y="86" font-family="ui-rounded, sans-serif" font-size="16" font-weight="800" fill="#c084fc">AI &amp; Workflows</text>
-    <text x="16" y="110" font-family="ui-rounded, sans-serif" font-size="12" font-weight="500" fill="#94a3b8">MCP / Agent Tools</text>
+    <text x="20" y="38" font-family="ui-monospace, monospace" font-size="11" font-weight="700" fill="#c084fc" letter-spacing="1">03 / AUTOMATION</text>
+    <text x="20" y="68" font-family="ui-rounded, sans-serif" font-size="18" font-weight="800" fill="#f8fafc">AI Agents &amp; Tools</text>
+    <text x="20" y="92" font-family="ui-rounded, sans-serif" font-size="12" font-weight="400" fill="#94a3b8">Model Context Protocol (MCP) and custom developer utilities.</text>
     
-    <path d="M 16 128 L 234 128" stroke="#334155" stroke-width="1" stroke-dasharray="4 4" />
+    <line x1="20" y1="112" x2="230" y2="112" stroke="#334155" stroke-width="1" stroke-dasharray="4 4" />
     
-    <!-- Pills -->
-    <rect x="16" y="142" width="80" height="24" rx="12" fill="#581c87" />
-    <text x="56" y="158" font-family="ui-rounded, sans-serif" font-size="11" font-weight="700" fill="#e9d5ff" text-anchor="middle">MCP Spec</text>
+    <rect x="20" y="130" width="80" height="24" rx="12" fill="#581c87" />
+    <text x="60" y="146" font-family="ui-rounded, sans-serif" font-size="11" font-weight="700" fill="#e9d5ff" text-anchor="middle">MCP Spec</text>
 
-    <rect x="104" y="142" width="90" height="24" rx="12" fill="#1e293b" />
-    <text x="149" y="158" font-family="ui-rounded, sans-serif" font-size="11" font-weight="700" fill="#f472b6" text-anchor="middle">Zed Editor</text>
+    <rect x="108" y="130" width="88" height="24" rx="12" fill="#1e293b" />
+    <text x="152" y="146" font-family="ui-rounded, sans-serif" font-size="11" font-weight="700" fill="#f472b6" text-anchor="middle">Zed Editor</text>
 
-    <rect x="16" y="172" width="100" height="24" rx="12" fill="#1e293b" />
-    <text x="66" y="188" font-family="ui-rounded, sans-serif" font-size="11" font-weight="700" fill="#a7f3d0" text-anchor="middle">Claude Code</text>
+    <rect x="20" y="160" width="96" height="24" rx="12" fill="#1e293b" />
+    <text x="68" y="176" font-family="ui-rounded, sans-serif" font-size="11" font-weight="700" fill="#a7f3d0" text-anchor="middle">Claude Code</text>
   </g>
 </svg>
