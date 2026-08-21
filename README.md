@@ -1,7 +1,7 @@
-# 河野 光臣 (Mitsuomi Kawano)
+# てるみ (Terumi)
 
 **SIer勤務 / フロントエンド & モバイルエンジニア** &nbsp;•&nbsp; **Google Cloud Platform**  
-日本（Japan 🇯🇵）を拠点に活動しています。
+Game: **telosh** &nbsp;•&nbsp; Based in Japan 🇯🇵
 
 > **“Soft Vibes, Hard Skills”** — 柔らかい雰囲気の中に、尖った技術力を。
 
