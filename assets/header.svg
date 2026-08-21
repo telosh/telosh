@@ -6,15 +6,16 @@
     </linearGradient>
 
     <linearGradient id="border-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38bdf8" />
-      <stop offset="50%" stop-color="#a855f7" />
-      <stop offset="100%" stop-color="#ec4899" />
+      <stop offset="0%" stop-color="#4285F4" />
+      <stop offset="33%" stop-color="#EA4335" />
+      <stop offset="66%" stop-color="#FBBC05" />
+      <stop offset="100%" stop-color="#34A853" />
     </linearGradient>
 
     <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#38bdf8" />
       <stop offset="50%" stop-color="#818cf8" />
-      <stop offset="100%" stop-color="#c084fc" />
+      <stop offset="100%" stop-color="#34A853" />
     </linearGradient>
 
     <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
@@ -29,17 +30,18 @@
 
   <g transform="translate(48, 34)">
     <rect x="0" y="0" width="200" height="26" rx="13" fill="#21262d" stroke="#30363d" />
-    <circle cx="16" cy="13" r="4" fill="#10b981" />
-    <text x="28" y="17" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#34d399">BUILDING OPEN SOURCE</text>
+    <circle cx="16" cy="13" r="4" fill="#34A853" />
+    <text x="28" y="17" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#34A853">BUILDING OPEN SOURCE</text>
   </g>
 
   <text x="48" y="102" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="38" font-weight="800" fill="url(#text-grad)" letter-spacing="-0.5">Terumi Kawano</text>
-  <text x="48" y="128" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="600" fill="#94a3b8" letter-spacing="2">@telosh • FULL-STACK &amp; CLOUD NATIVE ENGINEER</text>
+  <text x="48" y="128" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="600" fill="#94a3b8" letter-spacing="2">@telosh • FRONTEND, MOBILE &amp; GOOGLE CLOUD ENGINEER</text>
 
-  <text x="48" y="160" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400" fill="#cbd5e1">⚡ Architecting Edge Native Apps, High-Performance Web APIs &amp; AI Agents</text>
+  <text x="48" y="160" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400" fill="#cbd5e1">⚡ Architecting Modern Web &amp; Mobile Apps with Google Cloud &amp; Edge Infrastructure</text>
 
-  <g transform="translate(670, 40)" opacity="0.2">
-    <circle cx="40" cy="40" r="32" stroke="url(#border-grad)" stroke-width="2" fill="none" />
-    <path d="M25 40 L55 40 M40 25 L40 55" stroke="url(#border-grad)" stroke-width="2" />
+  <g transform="translate(670, 40)" opacity="0.25">
+    <!-- Google Cloud Style Polygon Graphic -->
+    <path d="M 30 10 L 60 25 L 60 55 L 30 70 L 0 55 L 0 25 Z" fill="none" stroke="url(#border-grad)" stroke-width="2.5" />
+    <circle cx="30" cy="40" r="12" fill="url(#border-grad)" opacity="0.6" />
   </g>
 </svg>
