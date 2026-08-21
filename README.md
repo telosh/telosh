@@ -1,11 +1,11 @@
 # てるみ (Terumi)
 
 **SIer勤務 / フロントエンド & モバイルエンジニア** &nbsp;•&nbsp; **Google Cloud Platform**  
-Game: **telosh** &nbsp;•&nbsp; Based in Japan 🇯🇵
+Game: **telosh** &nbsp;•&nbsp; Based in Japan
 
 ---
 
-### 🌐 ポートフォリオ & リンク / Portfolios & Links
+### ポートフォリオ & リンク / Portfolios & Links
 
 - **Main Portfolio:** [telosh.xyz](https://telosh.xyz) *(Next.js 16, React 19, React Three Fiber)*
 - **Terminal Shell:** [telosh.github.io](https://telosh.github.io)
@@ -15,20 +15,20 @@ Game: **telosh** &nbsp;•&nbsp; Based in Japan 🇯🇵
 
 ---
 
-### 🚀 主な注力領域 / Focus Areas
+### 主な注力領域 / Focus Areas
 
-- 📱 **フロントエンド & モバイルアプリ (Frontend & Mobile Native)**  
+- **フロントエンド & モバイルアプリ (Frontend & Mobile Native)**  
   **React Native** と **Expo** を用いたクロスプラットフォームモバイルアプリ開発、および **Next.js** と **React** による高パフォーマンスな Web アプリケーションの構築。
 
-- ☁️ **クラウドインフラ (Cloud Infrastructure)**  
+- **クラウドインフラ (Cloud Infrastructure)**  
   **Google Cloud (GCP)**、**Cloud Run**、**Firebase**、および **Cloudflare** を活用したサーバーレスバックエンド、API、エッジ配信基盤の設計・運用。
 
-- 🤖 **開発ツール & 自動化 (Developer Tooling & Automation)**  
+- **開発ツール & 自動化 (Developer Tooling & Automation)**  
   カスタム **MCP (Model Context Protocol)** ツールの開発、生産性向上ユーティリティ、業務自動化ワークフローの構築。
 
 ---
 
-### 🛠️ 技術スタック / Tech Stack
+### 技術スタック / Tech Stack
 
 - **開発言語 (Languages):** `TypeScript` &nbsp;`JavaScript` &nbsp;`Node.js` &nbsp;`Python`
 - **フロントエンド & モバイル (Frontend & Mobile):** `React Native` &nbsp;`Expo` &nbsp;`Next.js` &nbsp;`React` &nbsp;`Tailwind CSS` &nbsp;`Motion`
