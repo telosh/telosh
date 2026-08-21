@@ -9,47 +9,47 @@
   <rect width="800" height="220" rx="12" fill="url(#bg)" stroke="#30363d" stroke-width="1.5" />
 
   <g transform="translate(36, 32)">
-    <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, monospace" font-size="12" font-weight="700" fill="#38bdf8" letter-spacing="1.5">CORE ARCHITECTURAL FOCUS</text>
+    <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, monospace" font-size="12" font-weight="700" fill="#4285F4" letter-spacing="1.5">CORE ENGINEERING FOCUS</text>
     
     <g transform="translate(0, 16)">
       <rect x="0" y="0" width="340" height="42" rx="8" fill="#161b22" stroke="#30363d" />
-      <text x="14" y="25" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="600" fill="#f3f4f6">☁️ Edge Native Architecture</text>
-      <text x="210" y="25" font-family="ui-monospace, monospace" font-size="11" fill="#9ca3af">Cloudflare / Hono</text>
+      <text x="14" y="25" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="600" fill="#f3f4f6">📱 Frontend &amp; Mobile Native</text>
+      <text x="200" y="25" font-family="ui-monospace, monospace" font-size="11" fill="#9ca3af">Next.js / React Native</text>
     </g>
 
     <g transform="translate(0, 66)">
       <rect x="0" y="0" width="340" height="42" rx="8" fill="#161b22" stroke="#30363d" />
-      <text x="14" y="25" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="600" fill="#f3f4f6">⚡ Modern Web Applications</text>
-      <text x="210" y="25" font-family="ui-monospace, monospace" font-size="11" fill="#9ca3af">Next.js / React</text>
+      <text x="14" y="25" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="600" fill="#f3f4f6">☁️ Google Cloud &amp; Infrastructure</text>
+      <text x="200" y="25" font-family="ui-monospace, monospace" font-size="11" fill="#9ca3af">GCP / Cloud Run / Firebase</text>
     </g>
 
     <g transform="translate(0, 116)">
       <rect x="0" y="0" width="340" height="42" rx="8" fill="#161b22" stroke="#30363d" />
       <text x="14" y="25" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="600" fill="#f3f4f6">🤖 AI Agents &amp; Automation</text>
-      <text x="210" y="25" font-family="ui-monospace, monospace" font-size="11" fill="#9ca3af">MCP / Workflows</text>
+      <text x="200" y="25" font-family="ui-monospace, monospace" font-size="11" fill="#9ca3af">MCP / Workflows</text>
     </g>
   </g>
 
   <line x1="416" y1="32" x2="416" y2="188" stroke="#30363d" stroke-width="1" stroke-dasharray="4 4" />
 
   <g transform="translate(452, 32)">
-    <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, monospace" font-size="12" font-weight="700" fill="#c084fc" letter-spacing="1.5">ENGINEERING PROFILE</text>
+    <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, monospace" font-size="12" font-weight="700" fill="#EA4335" letter-spacing="1.5">ENGINEERING PROFILE</text>
 
     <g transform="translate(0, 24)">
       <text x="0" y="0" font-family="ui-monospace, monospace" font-size="12" fill="#9ca3af">LOCATION</text>
       <text x="130" y="0" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="600" fill="#e2e8f0">Japan 🇯🇵</text>
 
-      <text x="0" y="32" font-family="ui-monospace, monospace" font-size="12" fill="#9ca3af">PRIMARY LANG</text>
-      <text x="130" y="32" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="600" fill="#38bdf8">TypeScript / Python</text>
+      <text x="0" y="32" font-family="ui-monospace, monospace" font-size="12" fill="#9ca3af">PRIMARY STACK</text>
+      <text x="130" y="32" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="600" fill="#38bdf8">TS / Next.js / React Native</text>
 
-      <text x="0" y="64" font-family="ui-monospace, monospace" font-size="12" fill="#9ca3af">DATABASE</text>
-      <text x="130" y="64" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="600" fill="#e2e8f0">Cloudflare D1 / SQLite</text>
+      <text x="0" y="64" font-family="ui-monospace, monospace" font-size="12" fill="#9ca3af">CLOUD PLATFORM</text>
+      <text x="130" y="64" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="600" fill="#34A853">Google Cloud / Cloudflare</text>
 
       <text x="0" y="96" font-family="ui-monospace, monospace" font-size="12" fill="#9ca3af">ENVIRONMENT</text>
       <text x="130" y="96" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="600" fill="#e2e8f0">Zed / VS Code / Claude</text>
 
       <text x="0" y="128" font-family="ui-monospace, monospace" font-size="12" fill="#9ca3af">COLLABORATION</text>
-      <text x="130" y="128" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="600" fill="#34d399">Open for Projects 🤝</text>
+      <text x="130" y="128" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="600" fill="#FBBC05">Open for Projects 🤝</text>
     </g>
   </g>
 </svg>
