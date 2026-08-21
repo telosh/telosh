@@ -27,7 +27,7 @@ Based in Japan 🇯🇵
 ### Connect
 
 - **GitHub**: [@telosh](https://github.com/telosh)
-- **X (Twitter)**: [@SCR01111](https://x.com/SCR01111)
+- **X (Twitter)**: [@TellM1_](https://x.com/TellM1_)
 
 ---
 
