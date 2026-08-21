@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 160" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1b2e" />
+      <stop offset="100%" stop-color="#131722" />
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="160" rx="20" fill="url(#bg)" stroke="#334155" stroke-width="1.5" />
+
+  <text x="32" y="36" font-family="ui-rounded, sans-serif" font-size="13" font-weight="800" fill="#38bdf8" letter-spacing="1">🍡 MOCHI TECH MACARONS</text>
+
+  <!-- Row 1 -->
+  <g transform="translate(32, 54)">
+    <!-- TypeScript -->
+    <rect x="0" y="0" width="110" height="32" rx="16" fill="#1e293b" stroke="#38bdf8" stroke-width="1" />
+    <text x="55" y="20" font-family="ui-rounded, sans-serif" font-size="12" font-weight="700" fill="#38bdf8" text-anchor="middle">💙 TypeScript</text>
+
+    <!-- React Native -->
+    <rect x="120" y="0" width="130" height="32" rx="16" fill="#1e293b" stroke="#818cf8" stroke-width="1" />
+    <text x="185" y="20" font-family="ui-rounded, sans-serif" font-size="12" font-weight="700" fill="#a5b4fc" text-anchor="middle">📱 React Native</text>
+
+    <!-- Next.js -->
+    <rect x="260" y="0" width="90" height="32" rx="16" fill="#1e293b" stroke="#cbd5e1" stroke-width="1" />
+    <text x="305" y="20" font-family="ui-rounded, sans-serif" font-size="12" font-weight="700" fill="#f8fafc" text-anchor="middle">⚡ Next.js</text>
+
+    <!-- Google Cloud -->
+    <rect x="360" y="0" width="130" height="32" rx="16" fill="#1e293b" stroke="#34d399" stroke-width="1" />
+    <text x="425" y="20" font-family="ui-rounded, sans-serif" font-size="12" font-weight="700" fill="#34d399" text-anchor="middle">☁️ Google Cloud</text>
+
+    <!-- Expo -->
+    <rect x="500" y="0" width="80" height="32" rx="16" fill="#1e293b" stroke="#f472b6" stroke-width="1" />
+    <text x="540" y="20" font-family="ui-rounded, sans-serif" font-size="12" font-weight="700" fill="#f472b6" text-anchor="middle">🚀 Expo</text>
+
+    <!-- Python -->
+    <rect x="590" y="0" width="90" height="32" rx="16" fill="#1e293b" stroke="#fbbf24" stroke-width="1" />
+    <text x="635" y="20" font-family="ui-rounded, sans-serif" font-size="12" font-weight="700" fill="#fbbf24" text-anchor="middle">🐍 Python</text>
+  </g>
+
+  <!-- Row 2 -->
+  <g transform="translate(32, 98)">
+    <!-- Cloud Run -->
+    <rect x="0" y="0" width="110" height="32" rx="16" fill="#1e293b" stroke="#f87171" stroke-width="1" />
+    <text x="55" y="20" font-family="ui-rounded, sans-serif" font-size="12" font-weight="700" fill="#f87171" text-anchor="middle">🔥 Cloud Run</text>
+
+    <!-- Firebase -->
+    <rect x="120" y="0" width="100" height="32" rx="16" fill="#1e293b" stroke="#fbbf24" stroke-width="1" />
+    <text x="170" y="20" font-family="ui-rounded, sans-serif" font-size="12" font-weight="700" fill="#fbbf24" text-anchor="middle">💛 Firebase</text>
+
+    <!-- Cloudflare -->
+    <rect x="230" y="0" width="110" height="32" rx="16" fill="#1e293b" stroke="#fb923c" stroke-width="1" />
+    <text x="285" y="20" font-family="ui-rounded, sans-serif" font-size="12" font-weight="700" fill="#fb923c" text-anchor="middle">🟠 Cloudflare</text>
+
+    <!-- Tailwind CSS -->
+    <rect x="350" y="0" width="120" height="32" rx="16" fill="#1e293b" stroke="#22d3ee" stroke-width="1" />
+    <text x="410" y="20" font-family="ui-rounded, sans-serif" font-size="12" font-weight="700" fill="#22d3ee" text-anchor="middle">🎨 Tailwind</text>
+
+    <!-- Zed -->
+    <rect x="480" y="0" width="80" height="32" rx="16" fill="#1e293b" stroke="#c084fc" stroke-width="1" />
+    <text x="520" y="20" font-family="ui-rounded, sans-serif" font-size="12" font-weight="700" fill="#c084fc" text-anchor="middle">⚡ Zed</text>
+
+    <!-- Claude -->
+    <rect x="570" y="0" width="100" height="32" rx="16" fill="#1e293b" stroke="#a7f3d0" stroke-width="1" />
+    <text x="620" y="20" font-family="ui-rounded, sans-serif" font-size="12" font-weight="700" fill="#a7f3d0" text-anchor="middle">🤖 Claude</text>
+  </g>
+</svg>
